@@ -4,32 +4,345 @@ title: Calendar
 uid: 1f260ac1-5ea4-0307-0117-206f61562438
 ---
 
-| SES # | TOPICS | LECTURERs |
-| --- | --- | --- |
-| 1 | Introduction, Overview | All |
-| 2 | Pedestrian Crossing Problem 1 | RCL |
-| 3 | Pedestrian Crossing Problem 2 | RCL |
-| 4 | Functions of Random Variables 1 | RCL |
-| 5 | Functions of Random Variables 2 | RCL |
-| 6 | Geometrical Probability 1 | RCL |
-| 7 | Geometrical Probability 2 | RCL |
-| 8 | Introduction to Queues; Little's Law | ARO |
-| 9 | Markov Birth-and-Death Queues | ARO |
-| 10 | Some Transportation Problems | AIB |
-| 11 | More General Markov Queues | ARO |
-| 12 | The M/G/1 Queue and Extensions | ARO |
-| 13 | Quiz #1 |  |
-| 14 | Congestion Pricing | ARO |
-| 15 | Hypercube Queueing Model 1 | RCL |
-| 16 | Queueing Networks; Dynamic Queues | ARO |
-| 17 | Hypercube Queueing Model 2 | RCL |
-| 18 | Hypercube in Practice | RCL |
-| 19 | Introduction to Networks | ARO |
-| 20 | Node and Edge Covering | ARO |
-| 21 | Location Problems | ARO |
-| 22 | Probabilistic Routing and Location | ARO |
-| 23 | Simulating Randomness | AIB |
-| 24 | Networks Research from Urban OR | RCL |
-| 25 | Implementation | RCL |
-| 26 | Quiz #2 |  |
-| 27 | Final Roundup | All
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURERs
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction, Overview
+{{< tdclose >}}
+{{< tdopen >}}
+All
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Pedestrian Crossing Problem 1
+{{< tdclose >}}
+{{< tdopen >}}
+RCL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Pedestrian Crossing Problem 2
+{{< tdclose >}}
+{{< tdopen >}}
+RCL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Functions of Random Variables 1
+{{< tdclose >}}
+{{< tdopen >}}
+RCL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Functions of Random Variables 2
+{{< tdclose >}}
+{{< tdopen >}}
+RCL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Geometrical Probability 1
+{{< tdclose >}}
+{{< tdopen >}}
+RCL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Geometrical Probability 2
+{{< tdclose >}}
+{{< tdopen >}}
+RCL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Queues; Little's Law
+{{< tdclose >}}
+{{< tdopen >}}
+ARO
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Markov Birth-and-Death Queues
+{{< tdclose >}}
+{{< tdopen >}}
+ARO
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Some Transportation Problems
+{{< tdclose >}}
+{{< tdopen >}}
+AIB
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+More General Markov Queues
+{{< tdclose >}}
+{{< tdopen >}}
+ARO
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+The M/G/1 Queue and Extensions
+{{< tdclose >}}
+{{< tdopen >}}
+ARO
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz #1
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Congestion Pricing
+{{< tdclose >}}
+{{< tdopen >}}
+ARO
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Hypercube Queueing Model 1
+{{< tdclose >}}
+{{< tdopen >}}
+RCL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Queueing Networks; Dynamic Queues
+{{< tdclose >}}
+{{< tdopen >}}
+ARO
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Hypercube Queueing Model 2
+{{< tdclose >}}
+{{< tdopen >}}
+RCL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Hypercube in Practice
+{{< tdclose >}}
+{{< tdopen >}}
+RCL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Networks
+{{< tdclose >}}
+{{< tdopen >}}
+ARO
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Node and Edge Covering
+{{< tdclose >}}
+{{< tdopen >}}
+ARO
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Location Problems
+{{< tdclose >}}
+{{< tdopen >}}
+ARO
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Probabilistic Routing and Location
+{{< tdclose >}}
+{{< tdopen >}}
+ARO
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Simulating Randomness
+{{< tdclose >}}
+{{< tdopen >}}
+AIB
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Networks Research from Urban OR
+{{< tdclose >}}
+{{< tdopen >}}
+RCL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Implementation
+{{< tdclose >}}
+{{< tdopen >}}
+RCL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz #2
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Final Roundup
+{{< tdclose >}}
+{{< tdopen >}}
+All
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
