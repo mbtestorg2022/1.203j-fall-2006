@@ -5,6 +5,7 @@ description: This resource contains lecture slides on congestion pricing, econom
   definitions for the case of m types of customers, some additional issues, and references.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/28a2a732df4ba263a80883efef879091_lec11.pdf
 file_type: application/pdf
+parent_uid: 9f4898f8-ffb6-2da4-5758-e8820800ee4c
 resourcetype: Document
 title: lec11.pdf
 uid: 28a2a732-df4b-a263-a808-83efef879091

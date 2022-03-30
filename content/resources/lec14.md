@@ -7,6 +7,7 @@ description: 'This resource contains lecture slides on minimum spanning tree, ch
   plane, networks with Euler tour or path, solving manually on a graph, and applications.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/ab6b4912baa83b513c87961588cdaad3_lec14.pdf
 file_type: application/pdf
+parent_uid: 9f4898f8-ffb6-2da4-5758-e8820800ee4c
 resourcetype: Document
 title: lec14.pdf
 uid: ab6b4912-baa8-3b51-3c87-961588cdaad3

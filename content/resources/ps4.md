@@ -5,6 +5,7 @@ description: This resource contains a problem set for logistical and transportat
   and queuing systems.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/2887eb20a7aef9563076195ba83117a2_ps4.pdf
 file_type: application/pdf
+parent_uid: 3dbf418d-55cc-5d7e-6cf6-acb67fe67d7f
 resourcetype: Document
 title: ps4.pdf
 uid: 2887eb20-a7ae-f956-3076-195ba83117a2

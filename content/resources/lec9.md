@@ -6,6 +6,7 @@ description: This resource contains lecture slides on a fundamental result for q
   of behavior.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/36d90014e175b04466290678ce09bfbf_lec9.pdf
 file_type: application/pdf
+parent_uid: 9f4898f8-ffb6-2da4-5758-e8820800ee4c
 resourcetype: Document
 title: lec9.pdf
 uid: 36d90014-e175-b044-6629-0678ce09bfbf
