@@ -4,6 +4,11 @@ description: This resource contains solutions to a quiz on logistics and transpo
   planning methods.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/3f78ce6c6c256e3aca809d7572d7fcbc_03q1sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 parent_uid: 189c1886-b84c-046e-2b5c-582fdab4d463
 resourcetype: Document
 title: 03q1sol.pdf

@@ -7,6 +7,11 @@ description: 'This resource contains lecture slides on M/G/1: a simple example, 
   systems.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/aece89b6e5d7f4d41d10a3dd1fa503b0_lec8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 9f4898f8-ffb6-2da4-5758-e8820800ee4c
 resourcetype: Document
 title: lec8.pdf

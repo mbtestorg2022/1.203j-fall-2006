@@ -5,6 +5,11 @@ description: 'This resource contains lecture slides on M/M/m, M/M/8, M/M/1: fini
   epochs and transition probabilities.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/b87afb500444dda0ccaa899445d90b17_lec6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 9f4898f8-ffb6-2da4-5758-e8820800ee4c
 resourcetype: Document
 title: lec6.pdf

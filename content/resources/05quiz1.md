@@ -5,6 +5,11 @@ description: 'This resource contains a quiz on logistics and transportation plan
   and Hurricane Xenos.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/207f4802048a10fd9bc35658417ed3e6_05quiz1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 parent_uid: 189c1886-b84c-046e-2b5c-582fdab4d463
 resourcetype: Document
 title: 05quiz1.pdf
